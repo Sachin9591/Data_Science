@@ -105,7 +105,7 @@ The goal is to support subscription-based companies in:
 Data Science & Machine Learning Enthusiast  
 📍 Bengaluru, India  
 📧 skumar100031993@gmail.com  
-🔗 LinkedIn: [https://linkedin.com/in/sachin-kumar-b-10031993/](Sachin Kumar B | LinkedIn URL)  
+🔗 LinkedIn: (Sachin Kumar B | LinkedIn URL)[https://linkedin.com/in/sachin-kumar-b-10031993/]
 
 ---
 
