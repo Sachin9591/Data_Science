@@ -1,2 +1,0 @@
-tweet_id,user_id,user_name,user_screen_name,tweet_text,clean_text,created_at,retweet_count,favorite_count,reply_count,hashtags,mentions,location,language,source,in_reply_to_status_id,in_reply_to_user_id,sentiment_score,is_retweet
-12345,54321,John Doe,@johndoe,Learning Python is fun! #coding,Learning Python is fun coding.,2024-11-08 10:00:00,10,15,2,#coding,@PythonHub,"Bangalore, IN",en,Twitter for iPhone,,,0.8,FALSE
